@@ -4,7 +4,7 @@
 
 This project contains the Jupyter Notebooks and supporting files for Julian Zucker _Functional Programming in Python_.
 
-These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/${NOTEBOOK_FPID}).
+These notebooks can be run on the O'Reilly Learning Platform [here](https://learning.oreilly.com/jupyter-notebooks/~/9781492095361).
 
 It contains both the exercises (/notebooks), possibly the solutions (/solutions), as well as any data or files needed (/data).
 
